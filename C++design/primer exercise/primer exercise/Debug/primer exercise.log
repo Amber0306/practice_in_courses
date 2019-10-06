@@ -1,0 +1,14 @@
+﻿  stdafx.cpp
+  primer exercise.cpp
+  function.cpp
+d:\zahara project\primer exercise\primer exercise\function.cpp(10): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\zahara project\primer exercise\primer exercise\function.cpp(11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\zahara project\primer exercise\primer exercise\function.cpp(22): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\zahara project\primer exercise\primer exercise\function.cpp(108): warning C4838: 从“double”转换到“float”需要收缩转换
+d:\zahara project\primer exercise\primer exercise\function.cpp(108): warning C4305: “初始化”: 从“double”到“float”截断
+d:\zahara project\primer exercise\primer exercise\function.cpp(115): warning C4838: 从“double”转换到“float”需要收缩转换
+d:\zahara project\primer exercise\primer exercise\function.cpp(115): warning C4305: “初始化”: 从“double”到“float”截断
+d:\zahara project\primer exercise\primer exercise\function.cpp(128): warning C4838: 从“double”转换到“float”需要收缩转换
+d:\zahara project\primer exercise\primer exercise\function.cpp(128): warning C4305: “初始化”: 从“double”到“float”截断
+  正在生成代码...
+  primer exercise.vcxproj -> D:\Zahara project\primer exercise\Debug\primer exercise.exe

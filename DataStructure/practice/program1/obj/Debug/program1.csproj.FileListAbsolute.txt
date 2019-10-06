@@ -1,0 +1,7 @@
+D:\Zahara project\practice\program1\bin\Debug\program1.exe.config
+D:\Zahara project\practice\program1\bin\Debug\program1.exe
+D:\Zahara project\practice\program1\bin\Debug\program1.pdb
+D:\Zahara project\practice\program1\obj\Debug\program1.csprojResolveAssemblyReference.cache
+D:\Zahara project\practice\program1\obj\Debug\program1.csproj.CoreCompileInputs.cache
+D:\Zahara project\practice\program1\obj\Debug\program1.exe
+D:\Zahara project\practice\program1\obj\Debug\program1.pdb

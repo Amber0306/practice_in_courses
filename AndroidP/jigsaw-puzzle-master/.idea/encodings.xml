@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/background.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/fanhuiguan.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/fanhuiguanqia.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/fanhuiguanqia_pressed.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/help.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/homebtn.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/homebtnpressed.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/image1.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/image10.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/image11.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/image12.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/image13.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/image14.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/image15.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/image16.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/image17.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/image18.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/image2.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/image3.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/image4.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/image5.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/image6.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/image7.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/image8.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/image9.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/mute.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/retry.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/retry_pressed.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/retrywww.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/withmusic.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/listpictrue.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/listxml.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/raw/exciting.ogg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/raw/gongxi.wav" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/raw/huadong1.wav" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/raw/huadong2.wav" charset="GBK" />
+  </component>
+</project>

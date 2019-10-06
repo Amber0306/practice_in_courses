@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layout"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+
+    <Button
+        android:id="@+id/rowBtn"
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="30dp"
+        android:text="row"
+        app:layout_constraintBottom_toTopOf="@+id/columnBtn"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="0dp" />
+
+    <Button
+        android:id="@+id/columnBtn"
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginBottom="109dp"
+        android:layout_toEndOf="@+id/pileBtn"
+        android:layout_toRightOf="@+id/pileBtn"
+        android:text="column"
+        app:layout_constraintBottom_toTopOf="@+id/pileBtn"
+        tools:ignore="MissingConstraints" />
+
+    <Button
+        android:id="@+id/pileBtn"
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="3dp"
+        android:layout_marginLeft="3dp"
+        android:layout_marginBottom="109dp"
+        android:layout_toEndOf="@+id/circleBtn"
+        android:layout_toRightOf="@+id/circleBtn"
+        android:text="pile"
+        app:layout_constraintBottom_toTopOf="@+id/circleBtn"
+        tools:ignore="MissingConstraints" />
+
+    <Button
+        android:id="@+id/circleBtn"
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="109dp"
+        android:text="circle"
+        app:layout_constraintBottom_toBottomOf="parent"
+        tools:ignore="MissingConstraints" />
+
+    <CheckBox
+        android:id="@+id/isClip"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="26dp"
+        android:layout_marginLeft="26dp"
+        android:layout_marginBottom="30dp"
+        android:layout_toEndOf="@+id/rowBtn"
+        android:layout_toRightOf="@+id/rowBtn"
+        android:text="isclip"
+        tools:ignore="MissingConstraints" />
+</RelativeLayout>

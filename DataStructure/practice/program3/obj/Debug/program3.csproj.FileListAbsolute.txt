@@ -1,0 +1,6 @@
+D:\Zahara project\practice\program3\bin\Debug\program3.exe.config
+D:\Zahara project\practice\program3\bin\Debug\program3.exe
+D:\Zahara project\practice\program3\bin\Debug\program3.pdb
+D:\Zahara project\practice\program3\obj\Debug\program3.csproj.CoreCompileInputs.cache
+D:\Zahara project\practice\program3\obj\Debug\program3.exe
+D:\Zahara project\practice\program3\obj\Debug\program3.pdb

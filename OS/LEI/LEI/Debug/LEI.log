@@ -1,0 +1,3 @@
+﻿  LEI.cpp
+d:\zahara project\os\lei\lei\lei.cpp(115): warning C4326: “main”的返回类型应为“int”而非“void”
+  LEI.vcxproj -> D:\Zahara project\OS\LEI\Debug\LEI.exe

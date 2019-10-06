@@ -1,0 +1,7 @@
+﻿P6.obj : error LNK2005: "void __cdecl TsingHua::ShowName(void)" (?ShowName@TsingHua@@YAXXZ) 已经在 P4.obj 中定义
+P6.obj : error LNK2005: "int TsingHua::year" (?year@TsingHua@@3HA) 已经在 P4.obj 中定义
+P6.obj : error LNK2005: "char * TsingHua::name" (?name@TsingHua@@3PADA) 已经在 P4.obj 中定义
+P2.obj : error LNK2005: "int __cdecl add(int,int)" (?add@@YAHHH@Z) 已经在 P3.obj 中定义
+list.obj : error LNK2005: "int __cdecl List(void)" (?List@@YAHXZ) 已经在 P3.obj 中定义
+P6.obj : error LNK2019: 无法解析的外部符号 "public: __thiscall automobile::automobile(void)" (??0automobile@@QAE@XZ)，该符号在函数 "public: __thiscall StationWagon7::StationWagon7(int,int,int,int)" (??0StationWagon7@@QAE@HHHH@Z) 中被引用
+D:\Zahara project\secondhomework\Debug\secondhomework.exe : fatal error LNK1120: 1 个无法解析的外部命令

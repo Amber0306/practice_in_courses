@@ -1,0 +1,5 @@
+﻿  DataPro5.cpp
+d:\zahara project\datapro5\datapro5\datapro5.cpp(13): warning C4101: “p”: 未引用的局部变量
+d:\zahara project\datapro5\datapro5\datapro5.cpp(13): warning C4101: “lp”: 未引用的局部变量
+d:\zahara project\datapro5\datapro5\datapro5.cpp(13): warning C4101: “rp”: 未引用的局部变量
+  DataPro5.vcxproj -> D:\Zahara project\DataPro5\Debug\DataPro5.exe
